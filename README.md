@@ -1,4 +1,4 @@
-# Factors-shaping-Data-Science
+# Factors shaping Data Science
 
 ## Objective
 The project aims to understand the underlying reasons for the success and failure of data science initiatives by analyzing a collection of news articles related to Data Science, Machine Learning, and Artificial Intelligence.
